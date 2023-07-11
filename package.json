@@ -1,0 +1,20 @@
+{
+  "name": "piplup7575",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/inference": "^2.6.1",
+    "@ratinchat/parrot.js": "^0.2.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.3.1"
+  }
+}
